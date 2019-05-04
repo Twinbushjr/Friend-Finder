@@ -1,0 +1,101 @@
+var friendsData = [
+  {
+    "name":"Lilly",
+    "photo":"https://s24193.pcdn.co/wp-content/uploads/2018/06/Screen-Shot-2018-06-25-at-3.43.31-PM.png",
+    "scores":[
+      4,
+      2,
+      1,
+      3,
+      1,
+      5,
+      3,
+      5,
+      2,
+      5
+    ]
+},
+{
+  "name":"Salina",
+  "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5d2V2iX_3ikyW5gclfbUeJR6NkmeFRc1StCMIikxihB3iRKb",
+  "scores":[
+    2,
+    5,
+    1,
+    4,
+    4,
+    3,
+    5,
+    5,
+    1,
+    4
+  ]
+},
+{
+  "name":"Cooper",
+  "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzARqo229CkozlKzfdt_7XOJRvsSQf7JxUKX1tkyIcDfyfh8ma",
+  "scores":[
+    1,
+    3,
+    2,
+    5,
+    5,
+    5,
+    1,
+    5,
+    2,
+    4
+  ]
+},
+{
+  "name":"Eva",
+  "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod.s3.amazonaws.com%2Fimages%2Factress-eva-mendes-is-seen-celebrating-the-new-york-company-news-photo-654234328-1555945464.jpg%3Fcrop%3D1.00xw%3A0.724xh%3B0%2C0.0283xh%26resize%3D480%3A*&imgrefurl=https%3A%2F%2Fwww.womenshealthmag.com%2Fbeauty%2Fa27225843%2Feva-mendes-no-makeup-instagram-selfie%2F&docid=TwFFvZvBFVuFJM&tbnid=pKEFuPYeIWN3ZM%3A&vet=10ahUKEwi4h7uhxfHhAhWKvJ4KHe0qDF8QMwilASg1MDU..i&w=480&h=480&bih=600&biw=639&q=selfies&ved=0ahUKEwi4h7uhxfHhAhWKvJ4KHe0qDF8QMwilASg1MDU&iact=mrc&uact=8",
+  "scores":[
+    1,
+    2,
+    5,
+    2,
+    4,
+    5,
+    1,
+    5,
+    1,
+    1
+  ]
+},
+{
+  "name":"Kendall",
+  "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fca.hellomagazine.com%2Fimages%2Fstories%2F0%2F2016%2F06%2F21%2F000%2F360%2F494%2Fgallery_1_1.jpg&imgrefurl=https%3A%2F%2Fca.hellomagazine.com%2Fcelebrities%2F02016062127304%2Fcelebrity-instagram-selfie-tips%2F1%2F&docid=4lJcbUCOpb9aDM&tbnid=hVN-D9lGXbF-qM%3A&vet=10ahUKEwjh3LS-wvHhAhUUsZ4KHUvLCUEQMwhqKB4wHg..i&w=596&h=596&bih=600&biw=639&q=selfies&ved=0ahUKEwjh3LS-wvHhAhUUsZ4KHUvLCUEQMwhqKB4wHg&iact=mrc&uact=8",
+  "scores":[
+    2,
+    1,
+    1,
+    4,
+    5,
+    1,
+    4,
+    2,
+    2,
+    1
+  ]
+},
+{
+  "name":"Phillip",
+  "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.thetab.com%2Fblogs.dir%2F4%2Ffiles%2F2013%2F10%2Fjervais-530x940.jpg&imgrefurl=https%3A%2F%2Fthetab.com%2Fuk%2Fsheffield%2F2013%2F10%2F25%2Fforget-selfies-its-all-about-the-uglie-1348&docid=CWPBKnf_1JBqJM&tbnid=wa6WHPhG_ulQHM%3A&vet=10ahUKEwj2yoyQ8PbhAhWTOn0KHcm6BsIQMwgxKAgwCA..i&w=530&h=940&bih=600&biw=639&q=ugly%20selfies&ved=0ahUKEwj2yoyQ8PbhAhWTOn0KHcm6BsIQMwgxKAgwCA&iact=mrc&uact=8",
+  "scores":[
+    4,
+    5,
+    5,
+    1,
+    4,
+    3,
+    3,
+    1,
+    5,
+    5
+  ]
+},
+
+]
+
+module.exports = friendsData
